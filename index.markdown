@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+A Seattle native currently working in Amsterdam.
+
+### Social Media
+
+[linkedIn](https://www.linkedin.com/in/chrisheiland/)
